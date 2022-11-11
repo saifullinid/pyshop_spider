@@ -1,0 +1,100 @@
+Android 12.x
+iOS 14
+Android 10.x
+iOS 14
+Android 11.x
+Android 12.x
+iOS 13
+iOS 13
+Android 12.x
+Android 11.x
+Android 12.x
+Android 11.x
+Not found OS
+Android 11.x
+iOS 15
+Android 12.x
+iOS 15
+Android 10.x
+iOS 15
+iOS 15
+iOS 14
+Android 11.x
+Not found OS
+Android 11.x
+Not found OS
+Android 11.x
+Android 11.x
+Not found OS
+Android 11.x
+Android 10.x
+Android 11.x
+Android 11.x
+Android 11.x
+Not found OS
+Android 12.x
+Android 11 (EMUI 12)
+Not found OS
+Android 11 (EMUI 12)
+Not found OS
+Not found OS
+Android 11 (EMUI 12)
+Not found OS
+Android 11.x
+iOS 15
+Android 11.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 11.x
+Android 11.x
+Not found OS
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Not found OS
+iOS 15
+Android 12.x
+Android 12.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 11.x
+Not found OS
+Android 11.x
+Not found OS
+Android 11.x
+Android 11.x
+Not found OS
+Android 11.x
+Android 11.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 10.x
+Android 12.x
+Android 12.x
+Android 11.x
+Android 11.x
+Android 11 (EMUI 12)
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 11.x
+Android 12.x
+Android 12.x
